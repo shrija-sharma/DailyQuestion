@@ -6,4 +6,3 @@ public class MaximumDepthofBinaryTree {
     int rh = maxDepth(root.right);
     return 1 + Math.max(lh, rh);
   }
-}
