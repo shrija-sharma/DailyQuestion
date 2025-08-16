@@ -1,8 +1,9 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
+
 public class Repeatednum {
-  public static int repeat(int[] arr) {
+public static int repeat(int[] arr) {
 
 boolean nonpos = true;
 for (int num : arr) {
@@ -50,3 +51,5 @@ return arr[0];
   System.out.println(ans);
   }
 }
+
+
