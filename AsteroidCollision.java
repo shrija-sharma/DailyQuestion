@@ -1,3 +1,4 @@
+import java.util.Stack;
 public class AsteroidCollision {
   public int[] asteroidCollision(int[] asteroids) {
     int n = asteroids.length;
